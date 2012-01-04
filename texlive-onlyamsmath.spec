@@ -6,7 +6,7 @@
 # catalog-version 0.04
 Name:		texlive-onlyamsmath
 Version:	0.04
-Release:	1
+Release:	2
 Summary:	Inhibit use of non-amsmath mathematics markup when using amsmath
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/onlyamsmath
