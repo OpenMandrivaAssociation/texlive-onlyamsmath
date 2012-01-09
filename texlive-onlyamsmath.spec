@@ -1,12 +1,12 @@
-# revision 15878
+# revision 25006
 # category Package
 # catalog-ctan /macros/latex/contrib/onlyamsmath
-# catalog-date 2007-03-11 14:06:37 +0100
+# catalog-date 2012-01-02 14:24:13 +0100
 # catalog-license lppl
-# catalog-version 0.04
+# catalog-version 0.10
 Name:		texlive-onlyamsmath
-Version:	0.04
-Release:	2
+Version:	0.10
+Release:	1
 Summary:	Inhibit use of non-amsmath mathematics markup when using amsmath
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/onlyamsmath
@@ -36,12 +36,13 @@ environments provided by the amsmath package.
 #-----------------------------------------------------------------------
 %files
 %{_texmfdistdir}/tex/latex/onlyamsmath/onlyamsmath.sty
+%doc %{_texmfdistdir}/doc/latex/onlyamsmath/ChangeLog
+%doc %{_texmfdistdir}/doc/latex/onlyamsmath/Makefile
 %doc %{_texmfdistdir}/doc/latex/onlyamsmath/README
+%doc %{_texmfdistdir}/doc/latex/onlyamsmath/onlyamsmath-v.tex
 %doc %{_texmfdistdir}/doc/latex/onlyamsmath/onlyamsmath.pdf
-%doc %{_texmfdistdir}/doc/latex/onlyamsmath/onlyamsmath.xml
 %doc %{_texmfdistdir}/doc/latex/onlyamsmath/onlyamsmathtest.tex
 #- source
-%doc %{_texmfdistdir}/source/latex/onlyamsmath/Makefile
 %doc %{_texmfdistdir}/source/latex/onlyamsmath/onlyamsmath.dtx
 %doc %{_texmfdistdir}/source/latex/onlyamsmath/onlyamsmath.ins
 
