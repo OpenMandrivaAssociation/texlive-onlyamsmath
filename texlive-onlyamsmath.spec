@@ -55,3 +55,21 @@ environments provided by the amsmath package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jan 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.10-1
++ Revision: 758992
+- Update to latest upstream release
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.04-2
++ Revision: 754549
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.04-1
++ Revision: 719162
+- texlive-onlyamsmath
+- texlive-onlyamsmath
+- texlive-onlyamsmath
+- texlive-onlyamsmath
+
