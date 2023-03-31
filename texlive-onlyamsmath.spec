@@ -1,6 +1,6 @@
 Name:		texlive-onlyamsmath
 Version:	42927
-Release:	1
+Release:	2
 Summary:	Inhibit use of non-amsmath mathematics markup when using amsmath
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/onlyamsmath
