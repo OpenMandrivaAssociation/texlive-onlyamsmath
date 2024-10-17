@@ -3,7 +3,7 @@ Version:	42927
 Release:	2
 Summary:	Inhibit use of non-amsmath mathematics markup when using amsmath
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/onlyamsmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/onlyamsmath
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/onlyamsmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/onlyamsmath.doc.r%{version}.tar.xz
